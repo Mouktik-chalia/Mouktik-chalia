@@ -12,7 +12,7 @@
   
   <br/><br/>
 
-  <a href="https://mouktik.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mouktik.dev-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> &nbsp;
+  <a href="https://t.me/Mouktik_5911" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40Mouktik__5911-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white" /></a> &nbsp;
   <a href="https://linkedin.com/in/mouktik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
   <a href="mailto:mouktikchalia@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
   <a href="https://github.com/Mouktik-chalia"><img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -157,7 +157,7 @@ openTo: "Collaboration, Open-Source Projects, Learning Opportunities & Innovativ
 <a href="mailto:mouktikchalia@gmail.com"><img src="https://img.shields.io/badge/Gmail-mouktikchalia%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;
 <a href="https://linkedin.com/in/mouktik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Mouktik-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;
 <a href="https://github.com/Mouktik-chalia"><img src="https://img.shields.io/badge/GitHub-Mouktik--chalia-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;&nbsp;
-<a href="https://mouktik.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mouktik.dev-4F46E5?style=for-the-badge&logo=react&logoColor=white" /></a>
+<a href="https://t.me/Mouktik_5911" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40Mouktik__5911-4F46E5?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 </div>
 
