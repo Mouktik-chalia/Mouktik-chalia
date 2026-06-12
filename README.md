@@ -104,64 +104,6 @@ Collection of bots focused on productivity, automation, and user management.
 
 ---
 
-## 💼 Professional Experience
-
-### **Lead AI & Software Engineer** | *Meta* 
-*Oct 2023 — Present*
-
-Led the design and deployment of large-scale machine learning pipelines and real-time backend orchestration services powering global generative AI experiences.
-
-- Engineered an asynchronous model routing architecture that reduced model inference latency by 35% across global endpoints.
-- Orchestrated the migration of legacy inference pipelines to Triton Inference Server, handling over 50,000 requests per second at peak.
-- Mentored a cross-functional team of 6 engineers to build scalable, secure API services and integrate LLM agents into core product flows.
-- **Skills:** `PyTorch` `FastAPI` `Go` `Kubernetes` `Triton` `AWS` `Distributed Systems`
-
----
-
-### **Senior Full Stack Architect** | *Stripe* 
-*Jun 2021 — Sep 2023*
-
-Architected and scaled highly available microservices and responsive web platforms for modern financial payment structures.
-
-- Redesigned the developer dashboard analytics module, utilizing Next.js and Redis caching to improve page load speed by 50%.
-- Designed robust, scalable API endpoints processing millions of transactions per day, ensuring 99.999% uptime.
-- Spearheaded the implementation of automated CI/CD pipelines, reducing deployment cycle times by 40%.
-- **Skills:** `TypeScript` `Next.js` `Node.js` `PostgreSQL` `Redis` `Docker` `GitHub Actions`
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| :---: | :--- |
-| **FAANG Tech Lead Award** | Awarded for exceptional leadership in launching global generative AI initiatives |
-| **Open Source Contributor** | Active contributor to PyTorch, Hugging Face, and LangChain repositories |
-| **Hackathon Winner (1st Place)** | Winner of the annual Global AI Hackathon for a decentralized agent framework |
-| **Patents Filed** | 2 Patents filed on optimized distributed vector indexing and caching mechanisms |
-
-</div>
-
----
-
-## 🏅 Certifications
-
-#### ☁️ Amazon Web Services (AWS)
-- <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-232F3E?style=flat-square&logo=amazon-webservices&logoColor=FF9900" />
-- <img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Specialty-232F3E?style=flat-square&logo=amazon-webservices&logoColor=FF9900" />
-
-#### 🔴 Oracle
-- <img src="https://img.shields.io/badge/Oracle-Java%20SE%20Professional%20Developer-EA2D11?style=flat-square&logo=oracle&logoColor=white" />
-
-#### 🎓 NPTEL
-- <img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing%20%28Elite%20%2B%20Gold%29-34D399?style=flat-square&logo=google-scholar&logoColor=white" />
-
-#### 🌐 Cisco
-- <img src="https://img.shields.io/badge/Cisco-CCNA%20Network%20Associate-1F85DE?style=flat-square&logo=cisco&logoColor=white" />
-
----
-
 ## 💻 Coding Profiles
 
 <div align="center">
@@ -189,30 +131,10 @@ Architected and scaled highly available microservices and responsive web platfor
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mouktik-chalia&theme=tokyonight&no-bg=true&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mouktik-chalia&theme=react-dark&bg_color=0d0e15&color=8b5cf6&line=4f46e5&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mouktik-chalia/Mouktik-chalia/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mouktik-chalia/Mouktik-chalia/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mouktik-chalia/Mouktik-chalia/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 ---
