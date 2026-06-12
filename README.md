@@ -63,56 +63,43 @@ I enjoy exploring software development, automation, and AI-powered tools. Most o
 
 ---
 
-## 🧠 AI / ML Expertise
+## 🛠️ Tech Interests & Skills
 
-| Domain | Proficiency | Details |
+| Area | Level | Details |
 | :--- | :--- | :--- |
-| **Large Language Models (LLMs)** | Expert | Fine-tuning (LoRA, QLoRA), Retrieval-Augmented Generation (RAG), LangChain, LlamaIndex, Prompt Engineering |
-| **Deep Learning & Neural Networks** | Advanced | PyTorch, TensorFlow, CNNs, RNNs, Transformers, Model Optimization & Quantization |
-| **Natural Language Processing** | Expert | BERT, Named Entity Recognition (NER), Sentiment Analysis, Vector Embeddings (ChromaDB, Pinecone) |
-| **Computer Vision** | Intermediate | OpenCV, YOLO, Image Segmentation, Object Detection, Feature Extraction |
-| **MLOps & Pipeline Orchestration** | Advanced | MLflow, Kubeflow, Ray, Triton Inference Server, Weights & Biases |
+| **Backend Development** | Intermediate | Node.js, Express.js, REST APIs, Authentication |
+| **Automation & Bots** | Advanced | Telegram Bots, Web Scraping, API Integrations |
+| **Web Development** | Intermediate | HTML, CSS, JavaScript, React |
+| **Databases** | Intermediate | MongoDB, MySQL, Firebase |
+| **Cloud & Deployment** | Beginner | VPS Management, Linux, Docker Basics |
+| **AI & LLMs** | Learning | LLM APIs, Prompt Engineering, AI Integrations |
 
 ---
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🛠️ Nexus-LLM: Enterprise-Grade RAG Gateway</b></summary>
+<summary><b>▶ OSINT Bot</b></summary>
 <br/>
-
-An intelligent, multi-tenant Retrieval-Augmented Generation gateway designed for secure, lightning-fast LLM orchestration and vector-based knowledge retrieval across massive enterprise datasets.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Python, PyTorch, FastAPI, Pinecone, Docker, AWS |
-| **Scale** | 10M+ daily tokens processed, 200+ parallel vector queries/sec |
-| **Performance** | <120ms end-to-end token latency, 99.99% service availability |
-| **Security** | OAuth2, AES-256 data encryption, PII masking, OWASP Top 10 LLM mitigation |
-| **Impact** | Automates enterprise knowledge retrieval, reducing ticket response times by 42% |
-| **Repository** | [GitHub Repository](https://github.com/Mouktik-chalia/nexus-llm) |
-
-#### Technical Overview
-Nexus-LLM provides a standardized middleware layer that intercepts requests to public and private LLM APIs. It implements hybrid search algorithms merging sparse BM25 and dense embedding vector retrieval. The gateway features a custom dynamic prompt-compression engine that optimizes prompt tokens on the fly, saving over 30% in operational API costs.
+Advanced Telegram bot for information gathering, data aggregation, and automation.
 </details>
 
 <details>
-<summary><b>⚡ AetherDB: Distributed High-Performance Vector Database</b></summary>
+<summary><b>▶ Legal Research & Automation Tools</b></summary>
 <br/>
+Built utilities and automation workflows designed to simplify information gathering, document processing, and legal research tasks, AI drafting.
+</details>
 
-A zero-dependency, sharded vector search engine engineered in Go to support real-time nearest-neighbor retrieval on billions of high-dimensional embeddings.
+<details>
+<summary><b>▶ Intelligence & Data Analysis Systems</b></summary>
+<br/>
+Developing solutions for public data collection, verification, and structured analysis.
+</details>
 
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Go, gRPC, Raft Consensus, RocksDB, Kubernetes |
-| **Scale** | Horizontal sharding across 50+ nodes, index capacity of 500M+ vectors |
-| **Performance** | Sub-15ms search latency at p99, parallel HNSW index building |
-| **Security** | mTLS inter-node communication, granular RBAC, encrypted backups |
-| **Impact** | Serves as the primary real-time recommendation backbone, boosting CTR by 18% |
-| **Repository** | [GitHub Repository](https://github.com/Mouktik-chalia/aether-db) |
-
-#### Technical Overview
-AetherDB leverages custom HNSW graph indexing implemented in pure Go, optimized using SIMD instruction sets. It employs a Raft consensus model for partition synchronization and leader election, ensuring high availability and strong eventual consistency. The database supports dynamic scaling, allowing seamless node joining and partition rebalancing without downtime.
+<details>
+<summary><b>▶ Custom Telegram Tools</b></summary>
+<br/>
+Collection of bots focused on productivity, automation, and user management.
 </details>
 
 ---
