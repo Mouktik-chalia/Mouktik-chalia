@@ -43,22 +43,22 @@ I enjoy exploring software development, automation, and AI-powered tools. Most o
 
 ### 💻 Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,go,rust,cpp" />
+  <img src="https://skillicons.dev/icons?i=py,nodejs,java,html,go,dart" />
 </a>
 
 ### 🌐 Frontend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html" />
 </a>
 
 ### 🗄️ Backend & Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb" />
 </a>
 
 ### ☁️ Cloud, DevOps & Tooling
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,azure" />
 </a>
 
 ---
