@@ -3,12 +3,12 @@
   
   <br/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;AI+%2F+ML+Research+Engineer;Full+Stack+Product+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Tech+Enthusiast;Law+Student;Builder" alt="Typing SVG" />
   
   <br/>
 
-  <img src="https://img.shields.io/badge/Education-M.S.%20Computer%20Science-8B5CF6?style=flat-square&logo=academia&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Location-San%20Francisco%2C%20CA-6366F1?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-B.A.%20LL.B-8B5CF6?style=flat-square&logo=academia&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Location-Kurukshetra-6366F1?style=flat-square&logo=google-maps&logoColor=white" />
   
   <br/><br/>
 
@@ -19,7 +19,7 @@
 
   <br/><br/>
 
-  <img src="https://komarev.com/normal-badge/?username=Mouktik-chalia&color=8b5cf6&style=flat-square&label=Profile+Views" /> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Mouktik-chalia&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS" /> &nbsp;
   <img src="https://img.shields.io/github/followers/Mouktik-chalia?label=Followers&style=flat-square&color=6366F1" /> &nbsp;
   <img src="https://img.shields.io/github/stars/Mouktik-chalia?label=Stars&style=flat-square&color=4F46E5" />
 </div>
@@ -28,16 +28,14 @@
 
 ## 🌌 About Me
 
-I am a **Senior Software Engineer & AI Architect** with a passion for designing and building highly scalable, resilient, and intelligent systems. With extensive experience in FAANG and enterprise-grade software development, I bridge the gap between complex AI/ML research and high-performance product engineering. 
+🚀 **Tech Enthusiast | Law Student | Builder**
 
-- 💻 **Full-Stack Engineering:** Expert in building distributed services, microservices architectures, and intuitive web interfaces.
-- 🧠 **AI/ML Innovation:** Experienced in training, fine-tuning, and productionizing Large Language Models (LLMs), computer vision models, and real-time inference pipelines.
-- 🚀 **Product Mindset:** Dedicated to writing clean, maintainable, and highly documented code that directly addresses user needs and drives business outcomes.
+I enjoy exploring software development, automation, and AI-powered tools. Most of my time goes into learning new technologies, experimenting with ideas, and building projects that solve real-world problems.
 
-### 🎯 Open To
-- Collaborating on bleeding-edge open-source AI/ML tooling.
-- Speaking engagements at software engineering and artificial intelligence conferences.
-- Consulting for early-stage and enterprise startups on system design and scalability.
+- 💻 Interested in Web Development, Backend Systems, Automation, and Artificial Intelligence.
+- 🛠️ I love creating bots, web applications, APIs, and productivity tools while constantly improving my coding skills.
+- 📚 Currently balancing my journey as a law student with my passion for technology.
+- 🌱 Always learning, building, and turning ideas into working products.
 
 ---
 
