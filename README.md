@@ -142,10 +142,10 @@ Collection of bots focused on productivity, automation, and user management.
 ## 🎯 Current Focus
 
 ```yaml
-learning: "Deep Reinforcement Learning & Agentic Workflows"
-building: "Enterprise Multi-Agent LLM Gateway & Sharded Vector Index"
-exploring: "Quantum Machine Learning & Distributed Consensus Protocols"
-openTo: "Consulting, Technical Advising, & Open-Source Collaboration"
+learning: "Backend Development, System Design & Modern Web Technologies"
+building: "Automation Tools, Telegram Bots & Web-Based Applications"
+exploring: "AI Integrations, Cybersecurity, Legal-Tech & Digital Products"
+openTo: "Collaboration, Open-Source Projects, Learning Opportunities & Innovative Ideas"
 ```
 
 ---
