@@ -7,7 +7,7 @@
   
   <br/>
 
-  <img src="https://img.shields.io/badge/Education-B.A.%20LL.B-8B5CF6?style=flat-square&logo=academia&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/⚖️_Education-B.A.%20LL.B-8B5CF6?style=flat-square" /> &nbsp;
   <img src="https://img.shields.io/badge/Location-Kurukshetra-6366F1?style=flat-square&logo=google-maps&logoColor=white" />
   
   <br/><br/>
